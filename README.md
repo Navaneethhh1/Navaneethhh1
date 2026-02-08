@@ -18,12 +18,7 @@ I'm Navaneeth
 
 I enjoy building clean, functional applications and learning how real-world systems are designed — from backend APIs to modern, user-focused interfaces. I’m especially interested in projects where technology solves practical problems.
 
-## 🔧 Tech Stack
-- **Languages:** Java, JavaScript
-- **Frontend:** React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode" /> </p>
 
 ## 🚀 What I’m working on
 - Full-stack MERN projects  
