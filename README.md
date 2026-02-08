@@ -10,11 +10,33 @@ I'm Navaneeth
 
 ![Navaneeth](https://capsule-render.vercel.app/api?type=rect&color=24292e&height=150&section=header&text=Navaneeth&fontSize=70&fontColor=ffffff)
 
-![Navaneeth](https://capsule-render.vercel.app/api?type=soft&color=33ccff&height=150&section=header&text=Navaneeth&fontSize=70)
+# Hi, I’m Navaneeth Boddula 👋
 
-![Navaneeth](https://capsule-render.vercel.app/api?type=slice&color=7042f8&height=200&section=header&text=Navaneeth&fontSize=80)
+🎓 Engineering student  
+💻 Aspiring Software Engineer  
+🌱 MERN Stack | DSA | Exploring IoT & Machine Learning  
 
-![Navaneeth](https://capsule-render.vercel.app/api?type=transparent&fontColor=7042f8&height=120&section=header&text=Navaneeth&fontSize=90&animation=fadeIn)
+I enjoy building clean, functional applications and learning how real-world systems are designed — from backend APIs to modern, user-focused interfaces. I’m especially interested in projects where technology solves practical problems.
+
+## 🔧 Tech Stack
+- **Languages:** Java, JavaScript
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 What I’m working on
+- Full-stack MERN projects  
+- Strengthening problem-solving with DSA  
+- Learning industry-grade Git & GitHub workflows  
+
+## 📫 Connect with me
+- GitHub: [@Navaneethhh1](https://github.com/Navaneethhh1)
+
+---
+
+⭐ Always curious. Always learning.
+
 
 <!--
 **Navaneethhh1/Navaneethhh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
