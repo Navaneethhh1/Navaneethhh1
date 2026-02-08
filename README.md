@@ -1,7 +1,5 @@
-## Hi there 👋
+# Hi, I’m Navaneeth Boddula 👋
 
-
-I'm Navaneeth
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Navaneeth;Software+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -10,14 +8,16 @@ I'm Navaneeth
 
 ![Navaneeth](https://capsule-render.vercel.app/api?type=rect&color=24292e&height=150&section=header&text=Navaneeth&fontSize=70&fontColor=ffffff)
 
-# Hi, I’m Navaneeth Boddula 👋
+
 
 🎓 Engineering student  
 💻 Aspiring Software Engineer  
-🌱 MERN Stack | DSA | Exploring IoT & Machine Learning  
+🌱 MERN Stack | DSA | Machine Learning  
 
 I enjoy building clean, functional applications and learning how real-world systems are designed — from backend APIs to modern, user-focused interfaces. I’m especially interested in projects where technology solves practical problems.
 
+
+## Tools and Technologies
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode" /> </p>
 
 ## 🚀 What I’m working on
@@ -27,6 +27,7 @@ I enjoy building clean, functional applications and learning how real-world syst
 
 ## 📫 Connect with me
 - GitHub: [@Navaneethhh1](https://github.com/Navaneethhh1)
+- LinkedIn : https://www.linkedin.com/in/navaneeth-boddula-0ab119239/
 
 ---
 
