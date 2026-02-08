@@ -3,6 +3,10 @@
 
 I'm Navaneeth
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Navaneeth;Software+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</h1>
+
 <!--
 **Navaneethhh1/Navaneethhh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
