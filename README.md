@@ -8,8 +8,6 @@
 </h1>
 
 
-![Navaneeth](https://capsule-render.vercel.app/api?type=rect&color=24292e&height=150&section=header&text=Navaneeth&fontSize=70&fontColor=ffffff)
-
 
 
 🎓 Engineering student  
@@ -18,13 +16,27 @@
 
 I enjoy building clean, functional applications and learning how real-world systems are designed — from backend APIs to modern, user-focused interfaces. I’m especially interested in projects where technology solves practical problems.
 
+### 🛠 Tools & Technologies
 
-## Tools and Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,vscode" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual‐studio‐code&logoColor=white" />
+</p>
+
 
 ## 🚀 What I’m working on
 - Full-stack MERN projects  
-- Strengthening problem-solving with DSA  
+- Strengthening problem-solving with DSA
+- Exploring System Design
 - Learning industry-grade Git & GitHub workflows  
 
 ## 📫 Connect with me
