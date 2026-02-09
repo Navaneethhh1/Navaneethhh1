@@ -11,7 +11,7 @@
 
 
 
-🎓 Engineering student  
+🎓 Engineering student 
 💻 Aspiring Software Engineer  
 🌱 MERN Stack | DSA | Machine Learning  
 
