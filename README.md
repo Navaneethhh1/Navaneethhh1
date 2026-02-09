@@ -4,9 +4,12 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Navaneeth;Aspiring+Software+Developer;Open+Source+Enthusiast;
-    System+Design+Explorer;DSA+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Navaneeth;Aspiring+Software+Developer;Open+Source+Enthusiast;System+Design+Explorer;DSA+Enthusiast" 
+    alt="Typing SVG" 
+  />
 </h1>
+
 
 
 
