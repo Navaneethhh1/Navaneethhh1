@@ -1,8 +1,10 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Navaneeth%20Boddula&fontSize=60&fontColor=ffffff&animation=fadeIn)
+
 # Hi, I’m Navaneeth Boddula 👋
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Navaneeth;Software+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Navaneeth;Aspiring+Software+Developer;Open+Source+Enthusiast:System+Design+Explorer+DSA+Enthusiast" alt="Typing SVG" />
 </h1>
 
 
@@ -36,6 +38,8 @@ I enjoy building clean, functional applications and learning how real-world syst
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Navaneethhh1&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethhh1&layout=compact&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Navaneethhh1&theme=tokyonight" /> </p>
 
 
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=24292e&height=80&section=footer)
 <!--
 **Navaneethhh1/Navaneethhh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
