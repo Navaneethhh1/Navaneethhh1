@@ -41,7 +41,7 @@ I enjoy building clean, functional applications and learning how real-world syst
 - Full-stack MERN projects  
 - Strengthening problem-solving with DSA
 - Exploring System Design
-- Learning industry-grade Git & GitHub workflows  
+    
 
 ## 📫 Connect with me
 - GitHub: [@Navaneethhh1](https://github.com/Navaneethhh1)
