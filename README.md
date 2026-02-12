@@ -43,7 +43,7 @@ I enjoy building clean, functional applications and learning how real-world syst
 - Exploring System Design
     
 
-## 📫 Connect with me
+## 📫 Connect with  me
 - GitHub: [@Navaneethhh1](https://github.com/Navaneethhh1)
 - LinkedIn : https://www.linkedin.com/in/navaneeth-boddula-0ab119239/
 
